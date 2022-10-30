@@ -16,7 +16,7 @@
   <div id="life" align="left">
 🔭 Currently learning JS, ReactJS, TypeScript <br>
 🎯 My favorite slogan is: 👟 Step by step 👟<br>
-📫 How to reach me at a.bychkoff1@yandex.ru<br>
+📫 How to reach me at: a.bychkoff1@yandex.ru<br>
  ❤️ Explore and Learn something New
 </div>
 
