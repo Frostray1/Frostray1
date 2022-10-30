@@ -6,7 +6,11 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://vk.com/frostray1 "><img src="vk.svg" width="50" height = "50"  alt="LinkedIn Badge"/></a>
+  <a href="https://vk.com/frostray1"><img src="https://raw.githubusercontent.com/github/explore/b9118a25126aa8eb71413d5819c6c517aeb4d0bb/topics/vk/vk.png" width="50" height = "50"  alt="vk"/></a>
+  <a href="https://t.me/frostray1"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" width="50" height = "50"  alt="vk"/></a>
+  <a href="https://instagram.com/frostray"><img src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" width="50" height = "50"  alt="vk"/></a>
+  
+  
   
   
 </div>
