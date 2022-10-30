@@ -54,10 +54,12 @@
 <img src=http://github-profile-summary-cards.vercel.app/api/cards/stats?username=frostray1&theme=github_dark alt=Artem Bychkov /> 
 <img src=http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=frostray1&theme=github_dark alt=Artem Bychkov /> 
   <img height=160 alt="bdfd most used language board" src="https://github-readme-streak-stats.herokuapp.com/?user=frostray1&theme=react&border=61dafb&hide_border=true" />
+<br>
+  <br>
 </div>
-
-
-
+<div align="center">
+<img src=https://activity-graph.herokuapp.com/graph?username=frostray1&theme=react-dark&bg_color=20232a&hide_border=true />
+</div>
 <!-- ![top-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=frostray1&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true) -->
 
 
