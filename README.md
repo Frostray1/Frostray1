@@ -42,13 +42,6 @@
   <img src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/1203/1203494.png" title="Sass" alt="Sass" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png" title="Sass" alt="Sass" width="45" height="45"/>
-  
-  
-  
-    
-  
-  
-  
 </div>
 <div id="icon" align="center">
 <img src=http://github-profile-summary-cards.vercel.app/api/cards/stats?username=frostray1&theme=github_dark alt=Artem Bychkov /> 
