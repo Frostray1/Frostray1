@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Artem
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Beginner Frontend developer from   🇷🇺</h3>
+<h3 align="center">Frontend developer from   🇷🇺</h3>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
