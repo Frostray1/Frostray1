@@ -21,12 +21,6 @@
 </div>
 
 
-<details >
-  <summary><b>✨ More About Me</b></summary>
-  <img src="https://cdn-icons-png.flaticon.com/512/3903/3903982.png" width="20" height = "20"  alt="ninja"/> &nbsp; Have a 1 dan black belt in taekwondo &nbsp; <img src="https://cdn-icons-png.flaticon.com/512/3903/3903538.png" width="20" height = "20"  alt="belt"/> <br>
-  <img src="https://cdn-icons-png.flaticon.com/512/1286/1286621.png" width="20" height = "20"  alt="piano"/> &nbsp; Like to play the piano &nbsp; <img src="https://cdn-icons-png.flaticon.com/512/240/240337.png" width="20" height = "20"  alt="piano2"/> <br>
-  <img src="https://cdn-icons-png.flaticon.com/512/3083/3083417.png" width="20" height = "20"  alt="ninja"/> &nbsp; Write music and produce tracks &nbsp; <img src="https://cdn-icons-png.flaticon.com/512/2829/2829075.png" width="20" height = "20"  alt="belt"/> <br>
-</details>
 
 ### :hammer_and_wrench: Languages and Tools :
 
